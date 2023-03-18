@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleAnimation</string>
+    <string name="hello_ru">ПРИВЕТ</string>
+    <string name="hello_en">HELLO</string>
+</resources>
